@@ -17,7 +17,7 @@ $ java Timer.java -w 50 -b 10
 
 # Shell Inputs
 ***
-**If you want to run your config more than once use one of the shell scripts:**
+**If you want to run your config more than once use the shell script (pro50.sh):**
 
 ```
 $ bash pro50.sh 4 -w 25 -b 5
