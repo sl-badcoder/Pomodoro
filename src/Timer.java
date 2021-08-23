@@ -21,7 +21,7 @@ public static int test=0;
 
 		
 		for(int i=0; i < args.length;i++){
-			if(args[i].equals("-h")){
+			if(args[i].equals("--help")){
 				System.out.println(
 				"\n\nThis is a programm to track your progress of your promodo work technique in your command line.\nCoded only in nano.\nPresented by: SL-BADCODER\n\n");
 				System.out.println(
