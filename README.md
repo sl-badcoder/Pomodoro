@@ -3,4 +3,5 @@
 promodo learn technique for cmd
 ## Help
 ***
-```java $ java Timer.java --help```
+```java 
+$ java Timer.java --help```
