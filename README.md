@@ -5,6 +5,16 @@ __Pomodoro learn technique for cmd__
 
 ![GitHub Logo](/photos/test_input.png)
 
+# Installation
+* You need Java and bash installed
+
+```
+$ git clone https://github.com/sl-badcoder/promodo.git
+$ cd src
+```
+If you want to call it from anywhere just create yourself an alias for example: <br>`alias pomodorob="bash <path>/src/pro50.sh"` or `alias pomodoroj="java <path/src/Timer.java>"`.<br>
+Add the alias to your CMD config.
+
 # Input
 ***
 **A typical input looks like this:**
