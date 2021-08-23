@@ -35,7 +35,7 @@ public static int test=0;
 				System.out.println(
 				"	-t: if you want to test your inputs (directly been printed without waiting).\n");
 				System.out.println(
-				"	-h: for this output.\n");
+				"	--help: for this output.\n");
 				help = 1;
 			}
 			else if(args[i].equals("-w")){
