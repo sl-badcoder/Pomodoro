@@ -12,7 +12,11 @@ __Pomodoro learn technique for cmd__
 $ git clone https://github.com/sl-badcoder/Pomodoro.git
 $ cd Pomodoro/src
 ```
-If you want to call it from anywhere just create yourself an alias for example: <br>```alias pomodorob="bash <path>/src/pro50.sh"``` or ```alias pomodoroj="java <path>/src/Timer.java>"```.<br>
+If you want to call it from anywhere just create yourself an alias for example: <br>
+```
+alias pomodorob="bash <path>/src/pro50.sh"
+alias pomodoroj="java <path>/src/Timer.java"
+```
 Add the alias to your CMD config.
 
 # Input
