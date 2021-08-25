@@ -35,7 +35,7 @@ $ java Timer.java -w 50 -b 10
 
 ```
 $ chmod +x pro50.sh
-$ ./pro50.sh 4 -w 25 -b 5
+$ ./pro50.sh 4 "-w 25" "-b 5"
 ```
 * First input is how often you want to run the config (here 4)
 * Rest is same like for the java script (look below for Help)
